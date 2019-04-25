@@ -20,9 +20,9 @@ A project to log colour names
 - Dandelion
 
 
-- Lavender
-- Emerald
-- Aquamarine
+- Lavender CO
+- Emerald CO
+- Aquamarine CO
 
 - Blue navy
 - Light orange
